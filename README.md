@@ -1,9 +1,12 @@
 <h2> Hi, I'm Souad Hilal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<p><em>Software Enginner at <a href="https://um6p.ma/en/ecole-1337">1337 school</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
 I'm a passionate developer with two years of hands-on experience at 1337, where I honed my skills in coding and problem-solving. I believe that every problem has a solution if you keep searching, and I thrive on learning and adapting to new technologies and project requirements. With strong teamwork and communication skills, I collaborate effectively with others to achieve common goals.
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souad) 
 
 # 💻 Tech Stack:
