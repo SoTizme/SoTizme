@@ -1,5 +1,5 @@
 <h2> Hi, I'm Souad Hilal! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner Student at <a href="https://um6p.ma/en/ecole-1337">1337 school </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Student at <a href="https://um6p.ma/en/ecole-1337">1337 school </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> I'm a problem-solver who talks to computers in Python, C/C++, and occasionally JavaScript when they’re feeling fancy. Over the past two years, I’ve built chat apps, tamed HTTP servers, and even persuaded a shell program to take commands. I believe every bug has a solution and love turning ideas into functional, elegant code.
